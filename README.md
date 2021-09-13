@@ -1,5 +1,5 @@
 ### Contact
-Discord: Litely#9755
+Discord: Litely#3018
 
 <!--
 **Litely1222/Litely1222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
